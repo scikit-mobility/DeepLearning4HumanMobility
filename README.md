@@ -17,21 +17,21 @@ This repository is based on the findings discussed in *A Survey of Predictive an
 
 __Table of Contents__ 
 - [Datasets](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets)
-  - Human Mobility 
-    - Mobile Phone 
-    - GPS Traces 
-    - Social Media
-    - Others 
-  - Auxiliary
-    - Spatial Aggregations 
-    - Traffic
-    - Environmental
-    - Census and Administrative 
-    - Others 
-- Tasks 
-  - Next-Location Prediction
-  - Crowd Prediction
-  - Generative Models
+  - [Human Mobility](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Human%20Mobility)
+    - [Mobile Phone](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Human%20Mobility/Mobile%20Phone)
+    - [GPS Traces](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Human%20Mobility/GPS)
+    - [Social Media](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Human%20Mobility/Social%20Media)
+    - [Others](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Human%20Mobility/Others)
+  - [Auxiliary](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Auxiliary)
+    - [Spatial Aggregations](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Auxiliary/Spatial%20Aggregation)
+    - [Traffic](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Auxiliary/Traffic)
+    - [Environmental](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Auxiliary/Enrivonmental)
+    - [Census and Administrative](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Auxiliary/Census%20and%20Administrative)
+    - [Others](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets/Auxiliary/Others)
+- [Tasks](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Tasks)
+  - [Next-Location Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Tasks/Next-Location)
+  - [Crowd Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Tasks/Crowd)
+  - [Generative Models](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Tasks/Generative%20Models)
 
 If you want to contribute to this repository, please open an issue and include the information according to the following guideline:
 
