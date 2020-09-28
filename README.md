@@ -16,7 +16,7 @@ This repository is based on the findings discussed in *A Survey of Predictive an
 ```
 
 __Table of Contents__ 
-- (https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets)[Datasets]
+- [Datasets](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Datasets)
   - Human Mobility 
     - Mobile Phone 
     - GPS Traces 
