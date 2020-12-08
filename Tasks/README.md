@@ -6,5 +6,5 @@ In this part of the repository, you can access the state-of-art papers associate
 In particular, you can access 
 
 - [Next-Location Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/next-location.md)
-- [Crowd Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/crowd.md)
+- [Crowd Flow Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/crowd.md)
 - [Generative Models](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/generative.md)
