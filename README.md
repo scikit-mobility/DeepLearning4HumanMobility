@@ -33,7 +33,7 @@ __Table of Contents__
 - [Tasks](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Tasks)
   - [Next-Location Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/next-location.md)
   - [Crowd Flow Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/crowd.md)
-  - [Generative Models](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/generative.md)
+  - [Trajectory Generation](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/generative.md)
 
 If you want to contribute to this repository, please open an issue and include the information according to the following guideline:
 
