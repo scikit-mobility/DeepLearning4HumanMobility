@@ -7,7 +7,7 @@ You can explore two different categories of datasets: the ones strictly related 
 Regarding the former, you can access the following categories
 
 - [Human Mobility](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Datasets/human_mobility.md)
-    - [Mobile Phone](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Datasets/human_mobility.md#mobile-phone)
+    - [Mobile Phone Records](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Datasets/human_mobility.md#mobile-phone)
     - [GPS Traces](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Datasets/human_mobility.md#gps)
     - [Social Media](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Datasets/human_mobility.md#social-media)
     - [Others](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Datasets/human_mobility.md#others)
