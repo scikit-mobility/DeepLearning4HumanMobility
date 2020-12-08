@@ -6,7 +6,7 @@ This document aims to track the progress in the usage of Deep Learning (DL) appl
 
 Moreover, we provide a list of datasources that can be used to model human mobility (e.g., Call Detail Records, GPS trajectories, Location Based Social Networks) and others that are not representing mobility but are strictly related to it and may be taken into account to finetune predictions (e.g., weather conditions, traffic data and others).
 
-This repository is based on the findings discussed in *A Survey of Predictive and Generative models for Human Mobilitybased on Deep Learning* a paper by Massimiliano Luca, Gianni Barlacchi, Bruno Lepri and Luca Pappalardo. If you use the content of this repository or if you want to further investigate this topic using the survey, please cite our work as
+This repository is based on the findings discussed in *Deep Learning for Human Mobility: a Survey on Data and Models* a paper by Massimiliano Luca, Gianni Barlacchi, Bruno Lepri and Luca Pappalardo. If you use the content of this repository or if you want to further investigate this topic using the survey, please cite our work as
 
 ```bibtex
 @misc{luca2020deep,
@@ -32,7 +32,7 @@ __Table of Contents__
       - [Census and Administrative](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Datasets/auxiliary.md#census-and-administrative)
 - [Tasks](https://github.com/scikit-mobility/DeepLearning4HumanMobility/tree/master/Tasks)
   - [Next-Location Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/next-location.md)
-  - [Crowd Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/crowd.md)
+  - [Crowd Flow Prediction](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/crowd.md)
   - [Generative Models](https://github.com/scikit-mobility/DeepLearning4HumanMobility/blob/master/Tasks/generative.md)
 
 If you want to contribute to this repository, please open an issue and include the information according to the following guideline:
