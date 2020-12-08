@@ -1,4 +1,4 @@
-# Deep Learning 4 Human Mobility
+# Deep Learning for Human Mobility: a Survey on Data and Models
 
 
 
@@ -9,9 +9,12 @@ Moreover, we provide a list of datasources that can be used to model human mobil
 This repository is based on the findings discussed in *A Survey of Predictive and Generative models for Human Mobilitybased on Deep Learning* a paper by Massimiliano Luca, Gianni Barlacchi, Bruno Lepri and Luca Pappalardo. If you use the content of this repository or if you want to further investigate this topic using the survey, please cite our work as
 
 ```bibtex
-@article{survey,
-  title={A Survey of Predictive and Generative models for Human Mobilitybased on Deep Learning},
-  author={Luca, Massimiliano and Barlacchi, Gianni and Lepri, Bruno and Pappalardo, Luca},
+@misc{luca2020deep,
+      title={Deep Learning for Human Mobility: a Survey on Data and Models}, 
+      author={Massimiliano Luca and Gianni Barlacchi and Bruno Lepri and Luca Pappalardo},
+      year={2020},
+      eprint={2012.02825},
+      archivePrefix={arXiv}
 }
 ```
 
