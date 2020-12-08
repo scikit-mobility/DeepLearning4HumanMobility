@@ -2,7 +2,7 @@
 ### [Back to Table Of Contents](https://github.com/scikit-mobility/DeepLearning4HumanMobility)
 ---
 
-In this part of the repository, you can access the datasets used in the SOA papers using Deep Learning solutions for human mobility tasks.
+In this part of the repository, you can access the datasets used in the state-of-art papers using Deep Learning solutions for human mobility tasks.
 You can explore two different categories of datasets: the ones strictly related to human mobility and others that cannot be used to directly model mobility but are strictly related to it.
 Regarding the former, you can access the following categories
 
