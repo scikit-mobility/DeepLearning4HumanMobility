@@ -45,3 +45,5 @@
 | Szeged Weather      | Dataset     | Szeged (Hungary) | [bit.ly/SzegedMeteo](https://bit.ly/SzegedMeteo)   |
 | Madrid Weather      | Dataset     | Madrid (Spain)   | [bit.ly/MadridMeteo](https://bit.ly/MadridMeteo)   |
 | Weather Underground | Web Service | -                | [bit.ly/WUnderground](https://bit.ly/WUnderground) |
+| WorldClim | Web Service | -                | [https://www.worldclim.org/data/index.html](www.worldclim.org) |
+
